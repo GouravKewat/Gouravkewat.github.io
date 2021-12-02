@@ -1,0 +1,5 @@
+body{
+background: repeating-linear-gradient(transparent, transparent 2.5px, #a8aaeb 2.5px, #a8aaeb 3.75px, transparent 3.75px, transparent 5px, #a8aaeb 3.75px, #a8aaeb 10px, transparent 10px, transparent 11.25px, #a8aaeb 11.25px, #a8aaeb 12.5px, transparent 12.5px, transparent 20px), repeating-linear-gradient(90deg, transparent, transparent 2.5px, #a8aaeb 2.5px, #a8aaeb 3.75px, transparent 3.75px, transparent 5px, #a8aaeb 3.75px, #a8aaeb 10px, transparent 10px, transparent 11.25px, #a8aaeb 11.25px, #a8aaeb 12.5px, transparent 12.5px, transparent 20px), #a5e1f0;
+background-blend-mode: multiply;
+background-color: #a5e1f0;
+}
